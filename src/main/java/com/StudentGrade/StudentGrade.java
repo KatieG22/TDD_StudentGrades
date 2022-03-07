@@ -1,6 +1,7 @@
 package com.StudentGrade;
 
 //Testing 
+// Testing 2
 public class StudentGrade {
 	public char getGrade(int studentMarks) {
 		char result = ' ';
